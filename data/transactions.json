@@ -1,0 +1,20 @@
+[
+    {
+        "transaction_id": "TXN001",
+        "amount": 85000,
+        "customer_average": 12000,
+        "location": "Bangalore",
+        "usual_location": "Mumbai",
+        "time": "02:15",
+        "transactions_last_hour": 6
+    },
+    {
+        "transaction_id": "TXN002",
+        "amount": 5000,
+        "customer_average": 12000,
+        "location": "Mumbai",
+        "usual_location": "Mumbai",
+        "time": "14:30",
+        "transactions_last_hour": 1
+    }
+]
